@@ -28,7 +28,7 @@ const CheckoutPage = ({ cartItems, total }) => (
       <span>TOTAL: Rp {total}</span>
     </div>
     <div className="test-warning">
-      *Please use the following test credit card for payment*
+      *Silahkan gunakan data berikut untuk tester baya pakai Credit Card*
       <br />
       4242 4242 4242 4242 - Exp: 01/22 - CVV: 123
     </div>
